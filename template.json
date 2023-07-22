@@ -1,14 +1,21 @@
 {
   "faction": "/r/TheClickOwO",
-  "contact": "https://github.com/Aras14HD/ClickPlace",
+  "contact": "https://github.com/Aras14HD/ClickPlace/issues",
   "templates": [
     {
       "name": "Emotional Support Demons",
       "sources": [
         "https://raw.githubusercontent.com/Aras14HD/ClickPlace/main/Current.png"
       ],
-      "x": 617,
-      "y": 245
+      "x": 1617,
+      "y": 745
     }
-  ]
+  ],
+  "whitelist": [
+    {
+      "name": "PridePlace",
+      "url": "https://pride.place/template.json"
+    }
+  ],
+  "blacklist": []
 }
