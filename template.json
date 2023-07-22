@@ -1,0 +1,14 @@
+{
+  "faction": "/r/TheClickOwO",
+  "contact": "https://github.com/Aras14HD/ClickPlace",
+  "templates": [
+    {
+      "name": "Emotional Support Demons",
+      "sources": [
+        "https://raw.githubusercontent.com/Aras14HD/ClickPlace/main/Current.png"
+      ],
+      "x": 617,
+      "y": 245
+    }
+  ]
+}
