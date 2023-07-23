@@ -9,6 +9,14 @@
       ],
       "x": 1617,
       "y": 1245
+    },
+    {
+      "name": "Swedish demons",
+      "sources": [
+        "https://raw.githubusercontent.com/Aras14HD/ClickPlace/main/Swedish.png"
+      ],
+      "x": 1086,
+      "y": 769
     }
   ],
   "whitelist": [
