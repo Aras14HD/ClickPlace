@@ -23,6 +23,10 @@
     {
       "name": "PridePlace",
       "url": "https://pride.place/template.json"
+    },
+    {
+      "name": "trans.gg",
+      "url": "https://trans.gg/template.json"
     }
   ],
   "blacklist": []
